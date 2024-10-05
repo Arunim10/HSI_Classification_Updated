@@ -1,0 +1,76 @@
+Mineral                                    Sample_IDs Datapoints
+Actinolite                           0020, 0021, 0064      56840 
+Albite                                           0107      22521 
+Almandine                      0025, 0026, 0073, 0074      17425 
+Andalusite                                       0014      18862 
+Anhydrite                                        0004      30832 
+Apatite                              0089(2), 0090(2)      69062 
+Aragonite                                        0061      40111 
+Arsenopyrite                                  0087(2)      66333 
+Augite                                           0038       8503 
+Barite                                           0006      37130 
+Beryl                                         0075(2)      37743 
+Biotite                                 0049(2), 0050      45400 
+Blende                                        0086(2)      15596 
+Bronzite                                         0112      50452 
+Bytownite                                        0103      14666 
+Calcite                  0010, 0011, 0052, 0078, 0079     112501 
+Cassiterite                                0119, 0120      38535 
+Celestite                            0000, 0001, 0002      56075 
+Chalcedony                           0108(2), 0109(2)      96431 
+Chalcopyrite                                     0106      19375 
+Chlorite                                         0013      75802 
+Clinochlore                                      0126      45301 
+Coal                                       0081, 0082      44664 
+Copper                                           0101      14556 
+Diopside                                         0069      58959 
+Dolomite                             0091(2), 0092(2)      76810 
+Enstatite                                        0047      31072 
+Epidote                                    0023, 0024      47306 
+Fluorite                             0003(2), 0012(2)      98638 
+Galena                                     0053, 0054      17931 
+Garnet                                           0115      27331 
+Glaucophane                    0016, 0017, 0076, 0077     200830 
+Goethite                                         0114      10717 
+Graphite                                   0083, 0084      20047 
+Grossular                                  0030, 0031      46592 
+Gypsum                            0005(2), 0007, 0063     159829 
+Halite                                     0008, 0056      66201 
+Halloysite                                 0121, 0122     102028 
+Hematite                 0039(2), 0085(2), 0095, 0096     165228 
+Hornblende                                       0046       9175 
+Hypersthene                                      0111      62932 
+Ilmenite                                         0116      16256 
+Kaolinite                                        0113      20764 
+Kyanite                                          0029      12320 
+Labradorite                          0088(2), 0104(2)      62762 
+Limonite                                   0128, 0129      64550 
+Magnetite                                  0055, 0072       7103 
+Microcline                                       0071      60699 
+Montmorillonite                      0123, 0124, 0125      87986 
+Muscovite                                        0034      62481 
+Nepheline                                     0097(2)      51930 
+Olivine                                          0065       7965 
+Omphacite                                  0019, 0067     108032 
+Opal                                             0102      34404 
+Orthoclase                                       0057      49824 
+Phlogopite                                 0045, 0070     105119 
+Pyrite                                     0042, 0048      31598 
+Pyrolusite                                 0117, 0118      45534 
+Pyrrhotite                                       0051      21572 
+Quartz                                  0009(2), 0035     126760 
+Rutile                                           0093       4959 
+Sanidine                                      0099(2)      49260 
+Serpentine                                 0018, 0068      78937 
+Siderite                                         0080      11651 
+Silicified wood                               0127(2)      92935 
+Sillimanite                                0032, 0033      70546 
+Sodalite                                   0043, 0060      61852 
+Sphalerite                                       0105      27485 
+Staurolite                           0027, 0028, 0066      30628 
+Sulfur                                     0036, 0037      34751 
+Talc                     0022, 0040, 0041, 0058, 0059     138317 
+Titanite                                         0094       4121 
+Tourmaline                                 0044, 0062      68419 
+Tremolite                               0098(2), 0100      70913 
+Zircon                                        0110(2)       5110 

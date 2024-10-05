@@ -1,0 +1,22 @@
+# **My Results on Pavia University Data**
+
+10% Train Data and 90% Validation Data, Kernel Size = 25x25
+
+Epochs = 50
+
+lr = 1e-3
+
+wd = 1e-4
+
+Adam optimizer
+
+PCA(n_components=15)
+
+Final Test f1:  [0.95959339 0.99494469 0.87689342 0.9352465  0.99547883 0.99702414
+ 0.96456857 0.89034091 0.85383129]
+Final Accuracy:  0.9666484843762175
+
+Final Train Loss: 0.0439
+
+Final Validation Loss: 0.1754
+

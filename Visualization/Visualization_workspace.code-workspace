@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Minerals_Dataset/Codes_for_dataset"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

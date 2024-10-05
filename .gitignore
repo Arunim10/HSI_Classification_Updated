@@ -1,0 +1,37 @@
+# Virtual environment (replace with your actual name if different)
+venv/
+
+
+# IDE/editor temporary files
+.idea/
+_pycache_/
+.vscode/
+
+# System-specific files
+*.exe  # Windows executables
+*.DS_Store  # macOS desktop service store files
+
+# Local development settings (if applicable)
+local_settings.py
+
+# Environment variables with sensitive data (if applicable)
+secrets.env
+
+*.mat
+
+*.npy
+
+*.pkl
+
+RPNet_RF-Failed/
+
+Vision_Transformer/PaliGemma/
+Vision_Transformer/PaliGemma_from_Umar_Jamil/
+Minerals_Dataset/HDR_Data/
+Minerals_Dataset/Masked_HRD_Data/
+Minerals_Dataset/Minerals_mat_files
+Minerals_Dataset/Raw_Data/
+
+Vision_Transformer/HSI_Transformer/MViT_Model_1.pth
+HybridSN/HSI_Minerals/uploads/A.hdr.h5
+Minerals_Dataset/patch_df.csv
